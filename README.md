@@ -11,5 +11,7 @@ The data is contained in the Zip Files. The content is as follows.
 5. ResultsData.zip - A zip file containing all the data our project generated (i.e. annotated images, combined sensor readings, etc.)
 
 # Citations and References
+1. Our project was inspired by the following paper: \\
+Zhang, Haichao, et al. "OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_OOSTraj_Out-of-Sight_Trajectory_Prediction_With_Vision-Positioning_Denoising_CVPR_2024_paper.pdf)
 1. The raw Vifit datasets were acquired from the [ViFit webpage](https://sites.google.com/winlab.rutgers.edu/vi-fidataset).  
 2. The cleaned, timestamp synchronised datasets (image and sensor) were acquired from [another project using the ViFit dataset](https://github.com/bryanbocao/vitag/blob/main/DATA.md) (thanks [Bryan Bo Cao](https://bryanbocao.github.io/)!!)
