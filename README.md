@@ -3,10 +3,9 @@ This repository contains the datasets, raw and otherwise used in our (Ashutosh T
 This course was taught by Professor [Shubham Jain](https://www3.cs.stonybrook.edu/~jain/). The course website (if online) can be found [here](https://crimson-brick-4f5.notion.site/CSE-570-Wireless-and-Mobile-Networks-Fall-2024-ad7f025689be4ccfb75e98513b1833c8). 
 
 # Data
-The data is contained in the Zip Files. Since there is approx 300GB of data (in the compressed format), it has been uploaded to Google Drive. 
-You can find the data [here](https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing)  
-
-(https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing if the embedded URL does not work)
+The data is contained in the Zip Files. Since there is approx 300GB of data (in the compressed format), it has been uploaded to Google Drive.  
+You can find the data [here](https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing).  
+(https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing if the embedded URL does not work.)  
 The content is as follows. 
 1. AllRawImage.zip - All the raw image (png) captured for scene0 in the ViFit dataset.
 2. RanAll.zip - The synchronised data from a project that uses the ViFit data (referenced below)
