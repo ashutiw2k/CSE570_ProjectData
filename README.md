@@ -4,7 +4,9 @@ This course was taught by Professor [Shubham Jain](https://www3.cs.stonybrook.ed
 
 # Data
 The data is contained in the Zip Files. Since there is approx 300GB of data (in the compressed format), it has been uploaded to Google Drive. 
-You can find the data [here](https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing) \ (https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing if the embedded URL does not work)
+You can find the data [here](https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing)  
+
+(https://drive.google.com/drive/folders/1fq2zsYxU7wuyFZo_Cs-kfliL1KTGYX_4?usp=sharing if the embedded URL does not work)
 The content is as follows. 
 1. AllRawImage.zip - All the raw image (png) captured for scene0 in the ViFit dataset.
 2. RanAll.zip - The synchronised data from a project that uses the ViFit data (referenced below)
